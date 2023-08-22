@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+table {
+  /* width: "100%"; */
+  border-collapse: collapse;
+  border: 1px solid white;
+  font-size: 30px;
+}
+
+table th, td {
+  padding: 0.5em;
+  border: 1px solid white;
+}
